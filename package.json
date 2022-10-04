@@ -1,0 +1,15 @@
+{
+  "name": "@raadsel/smallify",
+  "version": "1.0.0",
+  "description": "Shortens some basic javascipt functions",
+  "license": "ISC",
+  "repository": "raadsel/hackathon",
+  "main": "index.js",
+  "keywords": [
+    "shorten",
+    "small",
+    "npm",
+    "raadsel",
+    "easy-life"
+  ]
+}
