@@ -1,6 +1,6 @@
 {
   "name": "@raadsel/smallify",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Shortens some basic javascipt functions",
   "license": "ISC",
   "repository": "raadsel/hackathon",
@@ -12,9 +12,13 @@
     "raadsel",
     "easy-life",
     "Lazy",
-    "hackathon"
+    "hackathon",
+    "easy",
+    "lazy",
+    "fun",
+    "simple"
   ],
   "dependencies": {
-    "@raadsel/smallify": "^1.0.2"
+    "@raadsel/smallify": "^1.0.5"
   }
 }
